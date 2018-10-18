@@ -49,12 +49,14 @@ http://localhost
 
 　　(ref: https://github.com/laradock/laradock/issues/1392)
 
-- .envのDB周りの設定(laradock用) 
-```
- DB_CONNECTION=mysql
- DB_HOST=mysql
- DB_PORT=3306
- DB_DATABASE=default
- DB_USERNAME=default
- DB_PASSWORD=secret
-``` 
+----
+chapter1 まとめ
+
+[Laradoc設定](https://github.com/weeyble/laravel-sampleapp/commit/6e1cb6cb5421e0bba6f4c0cd8ac9a862879df401#diff-bd81acc1245a9b57cd054e84a8ea0f08)
+
+[sampleappの設定](https://github.com/weeyble/laravel-sampleapp/commit/8467e64408448ba1681b06751dfefdb96a4b6b4b#diff-3fa24f1344183721ce38f9740c6d6e9a)
+
+[mailhogの設定](https://github.com/weeyble/laravel-sampleapp/commit/120c188d31d69001e56ea3e0aa754c52e1d6f33b)
+
+----
+
